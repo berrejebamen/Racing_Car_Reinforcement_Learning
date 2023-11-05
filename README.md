@@ -4,10 +4,7 @@ This repository contains our research and implementation of deep reinforcement l
 
 ## Contributors
 
-- Amen Allah Berrejeb
-- Ahmed Rekik
-- Mouataz Bouazizi
-- Mohamed Amin Zid
+- Amen Allah Berrejeb and 3 colleauges
 
 ## Contents
 
