@@ -11,6 +11,7 @@ This repository contains our research and implementation of deep reinforcement l
 1. **Implementation File**: Contains the source code and neural network models.
 2. **Presentations**: Three `.pptx` files showcasing our work, methodologies, results, and insights.
 3. **Reference Paper**: Our work heavily references the "Playing Atari with Deep Reinforcement Learning" paper.
+4. **Videos of the Racing Car**
 
 
 
